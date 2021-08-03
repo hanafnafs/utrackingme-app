@@ -1,0 +1,7 @@
+{
+  "name": "fennexdashboard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
